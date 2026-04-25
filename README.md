@@ -1,2 +1,12 @@
-# Solar-System-Explorer
-Solar System Explorer is an interactive web-based project that allows users to explore planets, their details, and basic space information with a visually engaging UI built using HTML, CSS, and JavaScript.
+# 🌌 Solar System Explorer
+
+An interactive and visually appealing **Solar System Explorer** built using **HTML, CSS **. This project helps users explore planets, their features, and basic space-related information in a simple and engaging way.
+
+---
+
+## 🚀 Features
+
+* 🌍 Explore all planets in the solar system
+* 📊 View basic details (size, distance, atmosphere, etc.)
+* 🎨 Attractive UI with animations
+* 🖱️ Interactive elements (click/hover effects)
